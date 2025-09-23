@@ -8,42 +8,19 @@ DevOps | Cloud Engineer | Systems Engineer
 
 ## 👨‍💻 About Me
 
-Hey there! I'm a software engineer from the Philippines who's genuinely excited about technology and its potential to solve real problems. What started as curiosity about how things work has evolved into a career focused on building systems that actually make a difference.
+Software engineer from the Philippines building systems that solve real problems. I work across automation, Linux administration, DevOps, cloud infrastructure, and AI integration—always focused on writing maintainable code that scales.
 
-I spend most of my time working with Python, designing backend solutions, and recently diving deep into the world of AI and automation. There's something satisfying about writing clean code that scales well and seeing it run smoothly in production.
+Outside of work, I'm a tea enthusiast ☕, golfer ⛳, gamer 🎮 (League and AAA titles), and reader 📚. Currently pursuing cloud and Linux certifications while building AI-powered automation solutions and contributing to open source. What drives me is creating clean, functional code that lasts and finding practical applications for emerging tech.
 
-When I'm not coding, you'll find me enjoying a good cup of tea ☕, playing golf ⛳, diving into League of Legends or AAA games 🎮, and reading books 📚. I believe the best solutions come from a balanced perspective and continuous learning.
-
-**🎯 What I'm up to these days:**
-- Working toward cloud and Linux certifications (because there's always more to learn)
-- Building projects that combine traditional development with AI capabilities
-- Exploring how to make infrastructure more automated and reliable
-- Constantly tinkering with new tools and frameworks
-- Deepening my Linux expertise for better system administration and DevOps workflows
-
-**💡 Things I care about:**
-- Writing code that's not just functional but maintainable
-- The intersection of AI and practical software solutions
-- Open source collaboration and knowledge sharing
-- Helping others navigate their own tech journeys
-
-I'm always up for a good technical discussion or collaborating on interesting projects. If you're working on something cool or just want to chat about technology, feel free to reach out!
+Always up for technical discussions or interesting projects—feel free to reach out!
 
 ## 🚀 What I Do
 
-- **Backend Development**: Building scalable APIs and microservices
-- **Cloud Solutions**: Designing and deploying cloud-native applications
-- **AI Integration**: Implementing LLMs and automation tools
-- **System Administration**: Managing Linux servers and infrastructure
+I specialize in backend development (scalable APIs and microservices), cloud solutions (designing and deploying cloud-native applications), AI integration (implementing LLMs and automation tools), and system administration (managing Linux servers and infrastructure).
 
 ## 💪 Capabilities
 
-- Design and develop RESTful APIs
-- Build end-to-end web applications
-- Deploy and manage cloud infrastructure
-- Integrate AI/ML models into production systems
-- Automate workflows and DevOps processes
-- Database design and optimization
+My core capabilities include designing RESTful APIs, building end-to-end web applications, deploying and managing cloud infrastructure, integrating AI/ML models into production systems, automating workflows and DevOps processes, and optimizing databases for performance and scale.
 
 ## 🛠️ Tech Stack
 
@@ -95,7 +72,8 @@ I'm always up for a good technical discussion or collaborating on interesting pr
 
 ## 🎯 Current Focus
 
-- Contributing to open source projects
+- Learning Cloud Computing
+- Personal Projects
 - Exploring infrastructure automation
 
 > *"Code is like humor. When you have to explain it, it's bad."* - Cory House
