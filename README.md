@@ -10,7 +10,7 @@ DevOps | Cloud Engineer | Systems Engineer
 
 Software engineer from the Philippines building systems that solve real problems. I work across automation, Linux administration, DevOps, cloud infrastructure, and AI integration—always focused on writing maintainable code that scales.
 
-Outside of work, I'm a tea enthusiast ☕, golfer ⛳, gamer 🎮 (League and AAA titles), and reader 📚. Currently pursuing cloud and Linux certifications while building AI-powered automation solutions and contributing to open source. What drives me is creating clean, functional code that lasts and finding practical applications for emerging tech.
+Outside of work, I'm a tea enthusiast ☕, golfer ⛳, gamer 🎮 (League and AAA titles), and reader 📚. Currently pursuing cloud and DevOps certifications while building AI-powered automation solutions and contributing to open source. What drives me is creating clean, functional code that lasts and finding practical applications for emerging tech.
 
 Always up for technical discussions or interesting projects—feel free to reach out!
 
@@ -33,7 +33,6 @@ My core capabilities include designing RESTful APIs, building end-to-end web app
 
 **Backend Frameworks**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -45,12 +44,13 @@ My core capabilities include designing RESTful APIs, building end-to-end web app
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
 **AI/ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **Databases**
 
@@ -58,7 +58,6 @@ My core capabilities include designing RESTful APIs, building end-to-end web app
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 **Tools & Systems**
 
@@ -72,8 +71,8 @@ My core capabilities include designing RESTful APIs, building end-to-end web app
 
 ## 🎯 Current Focus
 
-- Learning Cloud Computing
-- Personal Projects
+- Reviewing for Cloud Certs
+- Doing personal proejcts
 - Exploring infrastructure automation
 
 > *"Code is like humor. When you have to explain it, it's bad."* - Cory House
