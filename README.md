@@ -110,6 +110,12 @@ My core capabilities include designing RESTful APIs, building end-to-end web app
 - Automating cloud infrastructure with **Pulumi** and **Terraform**
 - Contributing to **open-source** automation projects
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dericsanandres/dericsanandres/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dericsanandres/dericsanandres/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/dericsanandres/dericsanandres/output/github-snake.svg" />
+</picture>
+
 > *"Any sufficiently advanced ops work is indistinguishable from automation."* -- adapted from Arthur C. Clarke
 
 *Open to collaboration on DevOps tooling, AI integrations, and cloud-native projects.*
