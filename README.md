@@ -11,6 +11,34 @@ I architect and operate cloud infrastructure across Azure, Kubernetes, infrastru
 
 I bring a software engineering approach to infrastructure work through automation, maintainable tooling, and practical AI integrations.
 
+## Specialties
+
+<p>
+  <strong>Infrastructure</strong><br>
+  <img align="center" width="22" height="22" src="https://api.iconify.design/lucide/workflow.svg?color=%23C4775A" alt=""> DevOps &nbsp;&nbsp;
+  <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt=""> Kubernetes &nbsp;&nbsp;
+  <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt=""> Azure &nbsp;&nbsp;
+  <img align="center" width="28" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt=""> AWS &nbsp;&nbsp;
+  <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt=""> Google Cloud
+</p>
+
+<p>
+  <strong>AI engineering</strong><br>
+  <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" alt=""> Claude Code &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg">
+    <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg" alt="">
+  </picture> Codex
+</p>
+
+<p>
+  <strong>Security and automation</strong><br>
+  <img align="center" width="22" height="22" src="https://api.iconify.design/lucide/shield-check.svg?color=%23C4775A" alt=""> Security &nbsp;&nbsp;
+  <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt=""> Terraform &nbsp;&nbsp;
+  <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt=""> GitHub Actions
+</p>
+
 ## Impact
 
 - Supported **99.9% system uptime** while leading Docker and Kubernetes initiatives, cluster health, scaling, and proactive monitoring.
