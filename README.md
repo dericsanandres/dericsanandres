@@ -2,42 +2,58 @@
 
 <h1 align="center">Deric San Andres</h1>
 <p align="center"><strong>Senior DevOps &amp; Infrastructure Engineer</strong></p>
-<p align="center">I build reliable cloud platforms, delivery systems, and operational tooling.</p>
+<p align="center">I combine DevOps expertise with AI-assisted engineering across the delivery lifecycle—from development and staging to production—to diagnose critical issues faster, automate recovery, and deliver reliable solutions under pressure.</p>
 <p align="center"><strong><a href="https://modern-portfolio-seven-opal.vercel.app">View portfolio</a></strong> · Manila, Philippines</p>
 
 ## About
 
 I architect and operate cloud infrastructure across Azure, Kubernetes, infrastructure as code, CI/CD, Linux, and production observability. My focus is straightforward: repeatable deployments, resilient systems, and operational signals that help teams act quickly.
 
-I bring a software engineering approach to infrastructure work through automation, maintainable tooling, and practical AI integrations.
+Across development, staging, and production, I use AI-assisted diagnostics and automation to shorten investigations, reduce repetitive work, and move from signal to resolution faster.
 
 ## Specialties
 
-<p>
-  <strong>Infrastructure</strong><br>
-  <img align="center" width="22" height="22" src="https://api.iconify.design/lucide/workflow.svg?color=%23C4775A" alt=""> DevOps &nbsp;&nbsp;
-  <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt=""> Kubernetes &nbsp;&nbsp;
-  <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt=""> Azure &nbsp;&nbsp;
-  <img align="center" width="28" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt=""> AWS &nbsp;&nbsp;
-  <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt=""> Google Cloud
-</p>
+<div align="center">
+  <p><strong>Infrastructure</strong></p>
+  <p>
+    <img width="30" height="30" src="https://api.iconify.design/lucide/workflow.svg?color=%23C4775A" title="DevOps" alt="">
+    &nbsp;&nbsp;&nbsp;
+    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="">
+    &nbsp;&nbsp;&nbsp;
+    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" alt="">
+    &nbsp;&nbsp;&nbsp;
+    <img width="42" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="">
+    &nbsp;&nbsp;&nbsp;
+    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="">
+  </p>
+  <sub>DevOps · Kubernetes · Azure · AWS · Google Cloud</sub>
 
-<p>
-  <strong>AI engineering</strong><br>
-  <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" alt=""> Claude Code &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg">
-    <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg" alt="">
-  </picture> Codex
-</p>
+  <br><br>
 
-<p>
-  <strong>Security and automation</strong><br>
-  <img align="center" width="22" height="22" src="https://api.iconify.design/lucide/shield-check.svg?color=%23C4775A" alt=""> Security &nbsp;&nbsp;
-  <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt=""> Terraform &nbsp;&nbsp;
-  <img align="center" width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt=""> GitHub Actions
-</p>
+  <p><strong>AI engineering</strong></p>
+  <p>
+    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" title="Claude Code" alt="">
+    &nbsp;&nbsp;&nbsp;
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg">
+      <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg" title="Codex" alt="">
+    </picture>
+  </p>
+  <sub>Claude Code · Codex</sub>
+
+  <br><br>
+
+  <p><strong>Security and automation</strong></p>
+  <p>
+    <img width="30" height="30" src="https://api.iconify.design/lucide/shield-check.svg?color=%23C4775A" title="Security" alt="">
+    &nbsp;&nbsp;&nbsp;
+    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="Terraform" alt="">
+    &nbsp;&nbsp;&nbsp;
+    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="">
+  </p>
+  <sub>Security · Terraform · GitHub Actions</sub>
+</div>
 
 ## Impact
 
