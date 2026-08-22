@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-frame.svg">
-  <img src="./assets/profile-frame.gif" width="100%" alt="Infrastructure signal moving through diagnose, patch, and healthy states">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-frame-static.png">
+  <img src="./assets/profile-frame.gif" width="100%" alt="Squid-like AI operations companion coordinating Kubernetes, cloud, security, and delivery systems">
 </picture>
 
 <h1 align="center">Deric San Andres</h1>
