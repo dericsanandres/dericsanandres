@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-frame-static.png">
-  <img src="./assets/profile-frame.gif" width="100%" alt="Squid-like AI operations companion coordinating Kubernetes, cloud, security, and delivery systems">
+  <img src="./assets/profile-frame.gif" width="100%" alt="Pixel AI companion assembling an AI and DevOps delivery marquee">
 </picture>
 
 <h1 align="center">Deric San Andres</h1>
