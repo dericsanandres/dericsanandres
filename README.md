@@ -28,8 +28,6 @@ Across development, staging, and production, I use AI-assisted diagnostics and a
   </p>
   <sub>DevOps · Kubernetes · Azure · AWS · Google Cloud</sub>
 
-  <br><br>
-
   <p><strong>AI engineering</strong></p>
   <p>
     <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" title="Claude Code" alt="">
@@ -41,8 +39,6 @@ Across development, staging, and production, I use AI-assisted diagnostics and a
     </picture>
   </p>
   <sub>Claude Code · Codex</sub>
-
-  <br><br>
 
   <p><strong>Security and automation</strong></p>
   <p>
