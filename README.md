@@ -1,4 +1,7 @@
-<img src="./assets/profile-frame.svg" width="100%" alt="Dark infrastructure topology frame in charcoal, slate, and muted copper">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-frame.svg">
+  <img src="./assets/profile-frame.gif" width="100%" alt="Infrastructure signal moving through diagnose, patch, and healthy states">
+</picture>
 
 <h1 align="center">Deric San Andres</h1>
 <p align="center"><strong>Senior DevOps &amp; Infrastructure Engineer</strong></p>
