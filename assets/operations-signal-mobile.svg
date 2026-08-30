@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="720" viewBox="0 0 600 720" role="img" aria-labelledby="title desc">
+  <title id="title">Operational delivery signal</title>
+  <desc id="desc">A narrow dark copper operations panel showing 99.9 percent system uptime, 60 percent faster recovery, 40 percent fewer deployment issues, and a delivery path from development through staging to production.</desc>
+
+  <rect width="600" height="720" fill="#0D1117"/>
+  <rect x="1.5" y="1.5" width="597" height="717" fill="none" stroke="#30363D" stroke-width="3"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace">
+    <rect x="24" y="24" width="7" height="7" fill="#C4775A"/>
+    <rect x="40" y="24" width="7" height="7" fill="#694237"/>
+    <rect x="56" y="24" width="7" height="7" fill="#694237"/>
+    <text x="82" y="34" fill="#F2D0C4" font-size="17" font-weight="700" letter-spacing="2">OPERATIONAL SIGNAL</text>
+    <line x1="24" y1="56" x2="576" y2="56" stroke="#30363D" stroke-width="2"/>
+
+    <g transform="translate(24 92)">
+      <text x="0" y="0" fill="#8B949E" font-size="16" letter-spacing="1.8">RELIABILITY</text>
+      <text x="0" y="68" fill="#E69A78" font-size="64" font-weight="700">99.9%</text>
+      <text x="552" y="63" fill="#F2D0C4" font-size="17" text-anchor="end" letter-spacing="1">SYSTEM UPTIME</text>
+      <path d="M0 92 H552" stroke="#694237" stroke-width="3"/>
+      <path d="M0 92 H498" stroke="#C4775A" stroke-width="3"/>
+    </g>
+
+    <g transform="translate(24 244)">
+      <text x="0" y="0" fill="#8B949E" font-size="16" letter-spacing="1.8">RECOVERY</text>
+      <text x="0" y="68" fill="#E69A78" font-size="64" font-weight="700">−60%</text>
+      <text x="552" y="63" fill="#F2D0C4" font-size="17" text-anchor="end" letter-spacing="1">MEAN TIME TO RECOVERY</text>
+      <path d="M0 92 H552" stroke="#694237" stroke-width="3"/>
+      <path d="M0 92 H332" stroke="#C4775A" stroke-width="3"/>
+    </g>
+
+    <g transform="translate(24 396)">
+      <text x="0" y="0" fill="#8B949E" font-size="16" letter-spacing="1.8">DELIVERY</text>
+      <text x="0" y="68" fill="#E69A78" font-size="64" font-weight="700">−40%</text>
+      <text x="552" y="63" fill="#F2D0C4" font-size="17" text-anchor="end" letter-spacing="1">DEPLOYMENT ISSUES</text>
+      <path d="M0 92 H552" stroke="#694237" stroke-width="3"/>
+      <path d="M0 92 H221" stroke="#C4775A" stroke-width="3"/>
+    </g>
+
+    <line x1="24" y1="536" x2="576" y2="536" stroke="#30363D" stroke-width="2"/>
+    <text x="24" y="570" fill="#8B949E" font-size="16" letter-spacing="1.8">DELIVERY PATH</text>
+
+    <circle cx="90" cy="620" r="8" fill="#E69A78"/>
+    <line x1="98" y1="620" x2="270" y2="620" stroke="#694237" stroke-width="3"/>
+    <path d="M260 614 L270 620 L260 626" fill="none" stroke="#C4775A" stroke-width="3"/>
+    <text x="90" y="658" fill="#F2D0C4" font-size="14" text-anchor="middle">DEV</text>
+
+    <circle cx="300" cy="620" r="8" fill="#E69A78"/>
+    <line x1="308" y1="620" x2="480" y2="620" stroke="#694237" stroke-width="3"/>
+    <path d="M470 614 L480 620 L470 626" fill="none" stroke="#C4775A" stroke-width="3"/>
+    <text x="300" y="658" fill="#F2D0C4" font-size="14" text-anchor="middle">STAGING</text>
+
+    <circle cx="510" cy="620" r="10" fill="none" stroke="#E69A78" stroke-width="3"/>
+    <circle cx="510" cy="620" r="3" fill="#F2D0C4"/>
+    <text x="510" y="658" fill="#F2D0C4" font-size="14" text-anchor="middle">PROD</text>
+
+    <text x="300" y="693" fill="#694237" font-size="13" text-anchor="middle" letter-spacing="1.5">AI-ASSISTED DELIVERY / MANILA</text>
+  </g>
+</svg>

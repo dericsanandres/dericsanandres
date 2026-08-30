@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1080" viewBox="0 0 600 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Selected systems</title>
+  <desc id="desc">Three stacked dark copper system panels representing an MCP blockchain scanner, an alumni information system, and ChartSync playlist automation.</desc>
+
+  <rect width="600" height="1080" fill="#0D1117"/>
+  <rect x="1.5" y="1.5" width="597" height="1077" fill="none" stroke="#30363D" stroke-width="3"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace">
+    <text x="24" y="38" fill="#F2D0C4" font-size="17" font-weight="700" letter-spacing="2">SELECTED SYSTEMS</text>
+    <line x1="24" y1="58" x2="576" y2="58" stroke="#30363D" stroke-width="2"/>
+
+    <g transform="translate(24 84)">
+      <rect width="552" height="300" fill="#121820" stroke="#30363D" stroke-width="2"/>
+      <text x="22" y="34" fill="#C4775A" font-size="15" letter-spacing="2">SYSTEM 01 / MCP</text>
+      <g transform="translate(44 72)" fill="none">
+        <line x1="20" y1="78" x2="112" y2="28" stroke="#694237" stroke-width="4"/>
+        <line x1="20" y1="78" x2="122" y2="132" stroke="#694237" stroke-width="4"/>
+        <line x1="112" y1="28" x2="226" y2="78" stroke="#694237" stroke-width="4"/>
+        <line x1="122" y1="132" x2="226" y2="78" stroke="#694237" stroke-width="4"/>
+        <line x1="226" y1="78" x2="330" y2="24" stroke="#694237" stroke-width="4"/>
+        <line x1="226" y1="78" x2="338" y2="136" stroke="#694237" stroke-width="4"/>
+        <rect x="8" y="66" width="24" height="24" fill="#C4775A" stroke="#C4775A"/>
+        <rect x="100" y="16" width="24" height="24" fill="#121820" stroke="#E69A78" stroke-width="4"/>
+        <rect x="110" y="120" width="24" height="24" fill="#121820" stroke="#E69A78" stroke-width="4"/>
+        <rect x="214" y="66" width="24" height="24" fill="#F2D0C4" stroke="#F2D0C4"/>
+        <rect x="320" y="14" width="20" height="20" fill="#121820" stroke="#C4775A" stroke-width="4"/>
+        <rect x="328" y="126" width="20" height="20" fill="#121820" stroke="#C4775A" stroke-width="4"/>
+      </g>
+      <text x="394" y="134" fill="#F2D0C4" font-size="22" font-weight="700">BLOCKCHAIN</text>
+      <text x="394" y="164" fill="#F2D0C4" font-size="22" font-weight="700">SCANNER</text>
+      <text x="22" y="268" fill="#8B949E" font-size="15" letter-spacing="1">MULTI-CHAIN ANALYSIS / 13 TOOLS</text>
+    </g>
+
+    <g transform="translate(24 414)">
+      <rect width="552" height="300" fill="#121820" stroke="#30363D" stroke-width="2"/>
+      <text x="22" y="34" fill="#C4775A" font-size="15" letter-spacing="2">SYSTEM 02 / DATA</text>
+      <g transform="translate(42 72)">
+        <rect width="310" height="156" fill="none" stroke="#694237" stroke-width="4"/>
+        <line x1="103" y1="0" x2="103" y2="156" stroke="#30363D" stroke-width="3"/>
+        <line x1="206" y1="0" x2="206" y2="156" stroke="#30363D" stroke-width="3"/>
+        <circle cx="51" cy="48" r="17" fill="#C4775A"/>
+        <path d="M24 82 C27 58 75 58 78 82" fill="none" stroke="#E69A78" stroke-width="5"/>
+        <circle cx="155" cy="48" r="17" fill="#121820" stroke="#E69A78" stroke-width="4"/>
+        <path d="M128 82 C131 58 179 58 182 82" fill="none" stroke="#694237" stroke-width="5"/>
+        <circle cx="258" cy="48" r="17" fill="#121820" stroke="#E69A78" stroke-width="4"/>
+        <path d="M231 82 C234 58 282 58 285 82" fill="none" stroke="#694237" stroke-width="5"/>
+        <rect x="28" y="111" width="47" height="10" fill="#694237"/>
+        <rect x="132" y="111" width="47" height="10" fill="#694237"/>
+        <rect x="235" y="111" width="47" height="10" fill="#694237"/>
+      </g>
+      <text x="384" y="130" fill="#F2D0C4" font-size="22" font-weight="700">ALUMNI</text>
+      <text x="384" y="160" fill="#F2D0C4" font-size="22" font-weight="700">INFORMATION</text>
+      <text x="22" y="268" fill="#8B949E" font-size="15" letter-spacing="1">WEB PLATFORM / MOBILE COMPANION</text>
+    </g>
+
+    <g transform="translate(24 744)">
+      <rect width="552" height="300" fill="#121820" stroke="#30363D" stroke-width="2"/>
+      <text x="22" y="34" fill="#C4775A" font-size="15" letter-spacing="2">SYSTEM 03 / AUTOMATION</text>
+      <g transform="translate(42 72)">
+        <line x1="0" y1="156" x2="310" y2="156" stroke="#694237" stroke-width="4"/>
+        <rect x="12" y="116" width="30" height="40" fill="#694237"/>
+        <rect x="62" y="82" width="30" height="74" fill="#C4775A"/>
+        <rect x="112" y="100" width="30" height="56" fill="#694237"/>
+        <rect x="162" y="50" width="30" height="106" fill="#E69A78"/>
+        <rect x="212" y="68" width="30" height="88" fill="#C4775A"/>
+        <rect x="262" y="24" width="30" height="132" fill="#F2D0C4"/>
+        <polyline points="27,98 77,64 127,78 177,32 227,46 277,8" fill="none" stroke="#F2D0C4" stroke-width="4"/>
+      </g>
+      <text x="384" y="142" fill="#F2D0C4" font-size="24" font-weight="700">CHARTSYNC</text>
+      <text x="22" y="268" fill="#8B949E" font-size="15" letter-spacing="1">CHART DATA → PLAYLIST AUTOMATION</text>
+    </g>
+  </g>
+</svg>

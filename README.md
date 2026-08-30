@@ -5,84 +5,78 @@
 
 <h1 align="center">Deric San Andres</h1>
 <p align="center"><strong>Senior DevOps &amp; Infrastructure Engineer</strong></p>
-<p align="center">I combine DevOps expertise with AI-assisted engineering across the delivery lifecycle—from development and staging to production—to diagnose critical issues faster, automate recovery, and deliver reliable solutions under pressure.</p>
-<p align="center"><strong><a href="https://modern-portfolio-seven-opal.vercel.app">View portfolio</a></strong> · Manila, Philippines</p>
+<p align="center">I design resilient delivery systems and use AI-assisted engineering to move from signal to resolution across development, staging, and production.</p>
 
-## About
+<p align="center">
+  <a href="https://modern-portfolio-seven-opal.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&amp;logo=vercel&amp;logoColor=C4775A"></a>
+  <a href="https://modern-portfolio-seven-opal.vercel.app/assets/resume.pdf"><img alt="Résumé" src="https://img.shields.io/badge/R%C3%89SUM%C3%89-161B22?style=for-the-badge&amp;logo=readme&amp;logoColor=C4775A"></a>
+  <a href="https://linkedin.com/in/dericsanandres"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&amp;logo=linkedin&amp;logoColor=C4775A"></a>
+  <a href="mailto:dercsanandres@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&amp;logo=gmail&amp;logoColor=C4775A"></a>
+</p>
 
-I architect and operate cloud infrastructure across Azure, Kubernetes, infrastructure as code, CI/CD, Linux, and production observability. My focus is straightforward: repeatable deployments, resilient systems, and operational signals that help teams act quickly.
+<p align="center"><sub>Manila, Philippines &nbsp;·&nbsp; BUILD → SECURE → OBSERVE → RECOVER</sub></p>
 
-Across development, staging, and production, I use AI-assisted diagnostics and automation to shorten investigations, reduce repetitive work, and move from signal to resolution faster.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/operations-signal-mobile.svg">
+  <img src="./assets/operations-signal.svg" width="100%" alt="Operational record: 99.9% uptime, 60% faster recovery, 40% fewer deployment issues, spanning development, staging, and production">
+</picture>
 
-## Specialties
+## Operating profile
 
-<div align="center">
-  <p><strong>Infrastructure</strong></p>
-  <p>
-    <img width="30" height="30" src="https://api.iconify.design/lucide/workflow.svg?color=%23C4775A" title="DevOps" alt="">
-    &nbsp;&nbsp;&nbsp;
-    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="">
-    &nbsp;&nbsp;&nbsp;
-    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" alt="">
-    &nbsp;&nbsp;&nbsp;
-    <img width="42" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="">
-    &nbsp;&nbsp;&nbsp;
-    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="">
-  </p>
-  <sub>DevOps · Kubernetes · Azure · AWS · Google Cloud</sub>
+I architect and operate cloud infrastructure where reliability has to survive real delivery pressure. My work joins platform engineering, observability, incident response, and infrastructure as code into repeatable systems that teams can understand and recover.
 
-  <p><strong>AI engineering</strong></p>
-  <p>
-    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" title="Claude Code" alt="">
-    &nbsp;&nbsp;&nbsp;
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg">
-      <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg" title="Codex" alt="">
-    </picture>
-  </p>
-  <sub>Claude Code · Codex</sub>
+| **Operate** | **Automate** | **Augment** |
+| --- | --- | --- |
+| Kubernetes, Linux, cloud infrastructure, production observability | Terraform, Pulumi, Ansible, CI/CD, deployment strategies | AI-assisted diagnostics, MCP tooling, investigation, recovery workflows |
 
-  <p><strong>Security and automation</strong></p>
-  <p>
-    <img width="30" height="30" src="https://api.iconify.design/lucide/shield-check.svg?color=%23C4775A" title="Security" alt="">
-    &nbsp;&nbsp;&nbsp;
-    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="Terraform" alt="">
-    &nbsp;&nbsp;&nbsp;
-    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="">
-  </p>
-  <sub>Security · Terraform · GitHub Actions</sub>
-</div>
+The through-line is practical: better signals, smaller failure domains, faster diagnosis, and fewer manual steps between an issue and a safe resolution.
 
-## Impact
+## Selected systems
 
-- Supported **99.9% system uptime** while leading Docker and Kubernetes initiatives, cluster health, scaling, and proactive monitoring.
-- Reduced **mean time to recovery by 60%** through observability and alerting workflows built with Prometheus, Grafana, and Zabbix.
-- Reduced **deployment issues by 40%** by strengthening CI/CD workflows and automated unit, integration, and regression testing.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/selected-systems-mobile.svg">
+  <img src="./assets/selected-systems.svg" width="100%" alt="Selected systems: MCP Blockchain Scanner, Alumni Information System, and ChartSync">
+</picture>
 
-## Featured Work
+### [MCP Blockchain Scanner](https://github.com/dericsanandres/MCP-Server-Ether-Scanner)
 
-- **[MCP Blockchain Scanner](https://github.com/dericsanandres/MCP-Server-Ether-Scanner)** — Multi-chain MCP server for whale detection and blockchain analysis, with validation, rate limiting, tests, and documented architecture.
-- **[Alumni Information System](https://github.com/dericsanandres/Alumni-Information-System-Web)** — Web-based university and alumni management platform with a companion cross-platform mobile application.
-- **[ChartSync](https://github.com/dericsanandres/ChartSync)** — Playlist automation from chart data using Playwright-based collection or an AI prompt.
+Multi-chain MCP server for whale detection and blockchain analysis. It exposes 13 tools through a validated, rate-limited architecture and works with Claude Code, Claude Desktop, Codex, and other MCP-compatible clients.
 
-## Core Stack
+`Python` `FastMCP` `Etherscan V2` `async HTTP` `validation` `rate limiting`
 
-| Area | Tools and technologies |
+### [Alumni Information System](https://github.com/dericsanandres/Alumni-Information-System-Web)
+
+University and alumni management platform built around searchable records, institutional workflows, and a companion cross-platform mobile application.
+
+`JavaScript` `PHP` `SQL` `web platform` `Flutter companion`
+
+### [ChartSync](https://github.com/dericsanandres/ChartSync)
+
+Playlist automation that turns chart data into repeatable listening workflows through Playwright-based collection or an AI-assisted prompt.
+
+`automation` `Playwright` `chart data` `playlist workflows` `AI-assisted`
+
+## Toolchain by layer
+
+| Layer | Working set |
 | --- | --- |
 | **Cloud** | Azure · AWS · Google Cloud |
-| **Infrastructure** | Kubernetes · Docker · Terraform · Pulumi · Ansible · Linux · Nginx |
+| **Platform** | Kubernetes · Docker · Linux · Nginx |
+| **Infrastructure as code** | Terraform · Pulumi · Ansible |
 | **Delivery** | GitHub Actions · GitLab CI · blue/green and canary deployments · automated testing |
-| **Observability** | Prometheus · Grafana · Zabbix · incident response · alerting |
+| **Signals and recovery** | Prometheus · Grafana · Zabbix · incident response · alerting |
 | **Development** | Python · TypeScript · JavaScript · PHP · SQL |
-| **AI tooling** | OpenAI · Claude Code · MCP · LangChain · AIOps automation |
+| **AI systems** | OpenAI · Claude Code · Codex · MCP · LangChain · AIOps automation |
 
-## Currently
+## Current vector
 
 - Preparing for the Azure AZ-104 and AZ-400 certifications.
 - Building practical AIOps and MCP-based tooling.
 - Expanding infrastructure automation with Terraform and Pulumi.
 
-## Connect
+---
 
-**[Portfolio](https://modern-portfolio-seven-opal.vercel.app)** · [Résumé](https://modern-portfolio-seven-opal.vercel.app/assets/resume.pdf) · [LinkedIn](https://linkedin.com/in/dericsanandres) · [Email](mailto:dercsanandres@gmail.com)
+<p align="center">
+  <strong>Build systems that explain themselves under pressure.</strong><br>
+  <sub><a href="https://modern-portfolio-seven-opal.vercel.app">Portfolio</a> · <a href="https://modern-portfolio-seven-opal.vercel.app/assets/resume.pdf">Résumé</a> · <a href="https://linkedin.com/in/dericsanandres">LinkedIn</a> · <a href="mailto:dercsanandres@gmail.com">Email</a></sub>
+</p>
