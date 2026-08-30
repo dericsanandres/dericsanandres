@@ -58,6 +58,33 @@ Playlist automation that turns chart data into repeatable listening workflows th
 
 ## Toolchain by layer
 
+<p align="center">
+  <sub><strong>CLOUD</strong></sub><br>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp&amp;theme=dark" alt="Microsoft Azure, Amazon Web Services, and Google Cloud">
+</p>
+
+<p align="center">
+  <sub><strong>PLATFORM</strong></sub><br>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,nginx&amp;theme=dark" alt="Kubernetes, Docker, Linux, and Nginx">
+</p>
+
+<p align="center">
+  <sub><strong>DELIVERY + SIGNALS</strong></sub><br>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,githubactions,gitlab,prometheus,grafana&amp;theme=dark" alt="Terraform, Ansible, GitHub Actions, GitLab, Prometheus, and Grafana">
+</p>
+
+<p align="center">
+  <sub><strong>AI + DEVELOPMENT</strong></sub><br>
+  <img height="48" src="https://skillicons.dev/icons?i=py,ts&amp;theme=dark" alt="Python and TypeScript">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" title="Claude Code" alt="Claude Code">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg">
+    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg" title="Codex" alt="Codex">
+  </picture><br>
+  <sub>Python · TypeScript · Claude Code · Codex</sub>
+</p>
+
 | Layer | Working set |
 | --- | --- |
 | **Cloud** | Azure · AWS · Google Cloud |
