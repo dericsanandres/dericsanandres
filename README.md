@@ -13,15 +13,6 @@ I build cloud systems, automate the repetitive stuff, and use Claude Code and Co
 
 Outside work, I’m usually playing Forza, League, NBA 2K, or chess. I also hit the gym, go jogging, and play basketball. Big NBA fan.
 
-<p>
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hobbies-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="./assets/hobbies-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hobbies-dark.svg">
-  <img src="./assets/hobbies-light.svg" width="600" alt="My hobbies: gaming, chess, fitness, and basketball">
-</picture>
-</p>
-
 [Portfolio](https://modern-portfolio-seven-opal.vercel.app) · [Résumé](https://modern-portfolio-seven-opal.vercel.app/assets/resume.pdf) · [LinkedIn](https://linkedin.com/in/dericsanandres) · [Email](mailto:dercsanandres@gmail.com)
 
 ## Things I've built
