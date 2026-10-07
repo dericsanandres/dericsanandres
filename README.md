@@ -11,12 +11,6 @@ Hey, I'm Deric 👋 A DevOps & infrastructure engineer based in Manila.
 
 I build cloud systems, automate the repetitive stuff, and use Claude Code and Codex to help turn ideas into working projects.
 
-<p>
-  <a href="https://www.mstr.nl/"><img src="./assets/current-company.svg" width="344" alt="Current company: MSTR"></a>
-</p>
-
-At MSTR, I’m a Senior DevOps Engineer supporting cloud infrastructure, deployments, and AI-assisted engineering. MSTR is a [Claude Select Services Partner](https://www.mstr.nl/blog/select-services-partner-claude-partner-network), and I use Claude Code in day-to-day delivery work.
-
 Outside work, I’m usually playing Forza, League, NBA 2K, or chess. I also hit the gym, go jogging, and play basketball. Big NBA fan.
 
 [Portfolio](https://modern-portfolio-seven-opal.vercel.app) · [Résumé](https://modern-portfolio-seven-opal.vercel.app/assets/resume.pdf) · [LinkedIn](https://linkedin.com/in/dericsanandres) · [Email](mailto:dercsanandres@gmail.com)
